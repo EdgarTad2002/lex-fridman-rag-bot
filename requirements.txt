@@ -1,0 +1,8 @@
+youtube-transcript-api
+fastembed
+faiss-cpu
+numpy
+google-generativeai
+python-dotenv
+rich
+tqdm
