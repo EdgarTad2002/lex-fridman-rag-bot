@@ -13,8 +13,8 @@ This project is a Retrieval-Augmented Generation (RAG) bot that allows you to ch
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/rag-bot.git
-   cd rag-bot
+   git clone https://github.com/EdgarTad2002/lex-fridman-rag-bot.git
+   cd lex-fridman-rag-bot
    ```
 
 2. **Set up a virtual environment**:
